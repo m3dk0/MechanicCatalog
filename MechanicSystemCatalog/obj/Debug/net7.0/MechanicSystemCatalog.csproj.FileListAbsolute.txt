@@ -1,0 +1,15 @@
+/Users/mehmedmohamed/Projects/MechanicSystemCatalog/MechanicSystemCatalog/bin/Debug/net7.0/MechanicSystemCatalog
+/Users/mehmedmohamed/Projects/MechanicSystemCatalog/MechanicSystemCatalog/bin/Debug/net7.0/MechanicSystemCatalog.deps.json
+/Users/mehmedmohamed/Projects/MechanicSystemCatalog/MechanicSystemCatalog/bin/Debug/net7.0/MechanicSystemCatalog.runtimeconfig.json
+/Users/mehmedmohamed/Projects/MechanicSystemCatalog/MechanicSystemCatalog/bin/Debug/net7.0/MechanicSystemCatalog.dll
+/Users/mehmedmohamed/Projects/MechanicSystemCatalog/MechanicSystemCatalog/bin/Debug/net7.0/MechanicSystemCatalog.pdb
+/Users/mehmedmohamed/Projects/MechanicSystemCatalog/MechanicSystemCatalog/obj/Debug/net7.0/MechanicSystemCatalog.csproj.AssemblyReference.cache
+/Users/mehmedmohamed/Projects/MechanicSystemCatalog/MechanicSystemCatalog/obj/Debug/net7.0/MechanicSystemCatalog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmedmohamed/Projects/MechanicSystemCatalog/MechanicSystemCatalog/obj/Debug/net7.0/MechanicSystemCatalog.AssemblyInfoInputs.cache
+/Users/mehmedmohamed/Projects/MechanicSystemCatalog/MechanicSystemCatalog/obj/Debug/net7.0/MechanicSystemCatalog.AssemblyInfo.cs
+/Users/mehmedmohamed/Projects/MechanicSystemCatalog/MechanicSystemCatalog/obj/Debug/net7.0/MechanicSystemCatalog.csproj.CoreCompileInputs.cache
+/Users/mehmedmohamed/Projects/MechanicSystemCatalog/MechanicSystemCatalog/obj/Debug/net7.0/MechanicSystemCatalog.dll
+/Users/mehmedmohamed/Projects/MechanicSystemCatalog/MechanicSystemCatalog/obj/Debug/net7.0/refint/MechanicSystemCatalog.dll
+/Users/mehmedmohamed/Projects/MechanicSystemCatalog/MechanicSystemCatalog/obj/Debug/net7.0/MechanicSystemCatalog.pdb
+/Users/mehmedmohamed/Projects/MechanicSystemCatalog/MechanicSystemCatalog/obj/Debug/net7.0/MechanicSystemCatalog.genruntimeconfig.cache
+/Users/mehmedmohamed/Projects/MechanicSystemCatalog/MechanicSystemCatalog/obj/Debug/net7.0/ref/MechanicSystemCatalog.dll
